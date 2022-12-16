@@ -1,0 +1,5 @@
+a = int(1)
+b = int(1)
+c = int(10)
+x = a + b * (c - 1)
+print(x)
